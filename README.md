@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DeViL</h1>
 <h3 align="center">A music writer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devil252&label=Profile%20View&color=00ffff&style=plastic" alt="devil252" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=devil252&label=Profile%20View&color=00ffff&style=plastic" alt="devil252" /> </p>--->
 
 
 <h3 align="left">Languages and Tools:</h3>
