@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on NIL
 
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Java
 
 - 👨‍💻 All of my projects are available at my GitHub Profile
 
