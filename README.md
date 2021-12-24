@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at my GitHub Profile
 
 - 📫 How to reach me 
-Email - arya250611@gmail.com,Discord - DeViL#7091
+Discord - DeViL#7091
 
 
 <h3 align="left">Languages and Tools:</h3>
