@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on NIL
 
-- 🌱 I’m currently learning dicord.py
+- 🌱 I’m currently learning js
 
 - 👨‍💻 All of my projects are available at my GitHub Profile
 
